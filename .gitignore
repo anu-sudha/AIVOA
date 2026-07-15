@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.env
+*.pyc
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# DB
+backend/*.db
+backend/hcp_crm.db
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
